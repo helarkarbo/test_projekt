@@ -1,10 +1,10 @@
-package ee.hnk.test_projekt;
+package ee.hnk.test_project;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestProjektApplicationTests {
+class TestProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
